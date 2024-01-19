@@ -1,0 +1,6 @@
+C:\Users\cathe\OneDrive - Workable Management Solutions\Desktop\OneDrive\Template Angular C# SQL App\GanttDemo\bin\Debug\GanttDemo.dll
+C:\Users\cathe\OneDrive - Workable Management Solutions\Desktop\OneDrive\Template Angular C# SQL App\GanttDemo\bin\Debug\GanttDemo.pdb
+C:\Users\cathe\OneDrive - Workable Management Solutions\Desktop\OneDrive\Template Angular C# SQL App\GanttDemo\obj\Debug\GanttDemo.csproj.AssemblyReference.cache
+C:\Users\cathe\OneDrive - Workable Management Solutions\Desktop\OneDrive\Template Angular C# SQL App\GanttDemo\obj\Debug\GanttDemo.csproj.CoreCompileInputs.cache
+C:\Users\cathe\OneDrive - Workable Management Solutions\Desktop\OneDrive\Template Angular C# SQL App\GanttDemo\obj\Debug\GanttDemo.dll
+C:\Users\cathe\OneDrive - Workable Management Solutions\Desktop\OneDrive\Template Angular C# SQL App\GanttDemo\obj\Debug\GanttDemo.pdb
